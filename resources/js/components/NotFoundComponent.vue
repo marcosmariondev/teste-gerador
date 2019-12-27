@@ -1,5 +1,5 @@
 <template>
-Pagina nao encontrada
+<div>Pagina nao encontrada</div>
 </template>
 
 <script>
